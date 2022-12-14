@@ -1,0 +1,9 @@
+INSTRUCTIONS ON HOW TO USE THE PIZZA APP
+1. put in your first and last name
+2. enter your address 
+3. enter your phone number
+4. add whatever you want on your pizza
+5. add a drink if you would like
+6. once all finished click add pizza
+7. then click checkout and you are all set to recieve your pizza
+8. also clicking delete will delete the current pizza you made!
